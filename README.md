@@ -1,5 +1,7 @@
 # Values-lang v3 to x64 compiler
 
+# Newer version with more features: https://github.com/RandyHRus/expres-lang-to-x64-compiler
+
 Compiles Values-lang v3 to x64 using a series of passes
 
 -   Uniquify
